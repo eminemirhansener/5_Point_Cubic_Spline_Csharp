@@ -1,4 +1,4 @@
-*Cubic Spline Interpolation*
+**Cubic Spline Interpolation**
 
 **Overview**
 
